@@ -1,0 +1,9 @@
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\bin\Debug\assignment2_medell.exe.config
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\bin\Debug\assignment2_medell.exe
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\bin\Debug\assignment2_medell.pdb
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\obj\Debug\assignment2_medell.csprojResolveAssemblyReference.cache
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\obj\Debug\assignment2_medell.Properties.Resources.resources
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\obj\Debug\assignment2_medell.View.resources
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\obj\Debug\assignment2_medell.csproj.GenerateResource.Cache
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\obj\Debug\assignment2_medell.exe
+C:\Users\max\Documents\School\3314\assignment2_medell\assignment2_medell\obj\Debug\assignment2_medell.pdb
